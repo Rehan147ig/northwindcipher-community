@@ -1,0 +1,16 @@
+node_modules/
+dist/
+out/
+.vercel/
+.env*
+!.env.example
+*.log
+.DS_Store
+.northwind-private/
+*.p8
+*.p12
+*.pem
+# Separately licensed paid artwork must not be redistributed.
+src/renderer/src/assets/tilesets/interiors.png
+src/renderer/src/assets/tilesets/office-tileset.png
+src/renderer/src/assets/tilesets/a5-office-floors-walls.png
